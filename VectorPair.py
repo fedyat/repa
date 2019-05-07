@@ -4,7 +4,7 @@ class VectorPair:
         """
      def __init__(self, v1, v2, n): 
          """
-         Constructor takes in two vectors and the vector length
+         CConstructor takes in two vectors and the vector length
          """
          self.v1 = v1
          self.v2 = v2
